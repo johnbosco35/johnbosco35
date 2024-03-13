@@ -35,6 +35,6 @@ I love to read books and listen to music.
 
 ### Where to find me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/johnbosco-okonkwo-7b33502b8/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnbosco-okonkwo-7b33502b8/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mikeroyalboy.jb/)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-28B63D?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/2348131994772)
