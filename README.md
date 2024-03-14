@@ -4,6 +4,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Passport.js](https://img.shields.io/badge/Passport.js-35DF79?style=flat-square&logo=Passport&logoColor=61DAFB)
+<img src="assets/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Sass.svg" alt="Sass" width="40" height="40"/>&nbsp;
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-3776AB?style=flat-square&logo=netlify&logoColor=white)
